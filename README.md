@@ -15,4 +15,4 @@ This is my personal website showcasing my research, projects, and experience in 
 
 ---
 
-*Last updated: December 2024*
+*Last updated: August 2025*
