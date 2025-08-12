@@ -140,3 +140,13 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.hoverZoomLink {
+  transition: transform .2s ease-in-out;
+  -moz-transition: transform .2s ease-in-out;
+  -webkit-transition: transform .2s ease-in-out;
+}
+
+.hoverZoomLink:hover {
+  transform: scale(1.05);
+}
