@@ -163,6 +163,11 @@ span.highlight {
   transform: scale(1.05);
 }
 
+.map-container {
+  transform: scale(0.2);
+  transform-origin: top left;
+}
+
 /* Mobile responsiveness improvements */
 @media (max-width: 768px) {
   body, td, th, tr, p, a {
